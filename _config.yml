@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/u/16780615?v=3
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:sidhantbhayana@yahoo.com
+  email: sidhantbhayana@yahoo.com
   facebook:
   flickr:
   github: bhayana91
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://bhayana91.github.io
+url: http://bhayana91.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
